@@ -1,0 +1,7 @@
+pandas
+numpy
+unidecode
+validate-docbr
+requests
+pyodbc
+python-dotenv

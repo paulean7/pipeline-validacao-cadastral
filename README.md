@@ -54,9 +54,9 @@ validacao-biobox/
 * Drivers ODBC configurados (caso vá conectar ao SQL Server).
 
 ### 2. Instalação das Dependências
-Clone o repositório e instale os pacotes necessários:
+Clone o repositório e instale os pacotes necessários utilizando o arquivo de dependências:
 ```bash
-pip install pandas unidecode validate-docbr requests pyodbc numpy python-dotenv
+pip install -r requirements.txt
 ```
 
 ### 3. Configuração do Ambiente (.env)
